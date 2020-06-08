@@ -5,8 +5,11 @@
 - I was responsible for most of the UI design that is still used today, as well as contributed significantly to the frontend and backend codebase of the application
 - Now used by over 3000 truck drivers daily
 
-[Android](https://play.google.com/store/apps/details?id=com.trackensure.eld)
-[iOS](https://apps.apple.com/ca/app/trackensure-eld/id1269259375)
+Visit [TrackEnsure](https://trackensure.com/) for more details
+
+Android: [Google Playstore](https://play.google.com/store/apps/details?id=com.trackensure.eld)
+
+iOS: [iTunes](https://apps.apple.com/ca/app/trackensure-eld/id1269259375)
 
 # Screenshots
 
